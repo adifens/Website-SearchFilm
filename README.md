@@ -6,8 +6,8 @@
 website ini berupa website untuk menemukan atau mencari film dengan memanfaatkan public API dari imdb.com
 
 ## Material
-- Boostrap 4
-- Jquery
+- Bootstrap 4 online
+- Jquery cdn online
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
